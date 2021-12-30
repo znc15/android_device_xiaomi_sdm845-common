@@ -6,6 +6,9 @@
 
 android_app {
     name: "XiaomiParts",
+    defaults: [
+        "SettingsLibDefaults",
+    ],
 
     srcs: ["src/**/*.java"],
     resource_dirs: ["res"],
@@ -14,10 +17,12 @@ android_app {
     privileged: true,
 
     static_libs: [
-        "org.pixelexperience.settings.resources",
+        "androidx.core_core",
+        "androidx.preference_preference",
     ],
 
     optimize: {
         proguard_flags_files: ["proguard.flags"],
     },
+
 }
