@@ -7,10 +7,10 @@
                 "NAN",
                 "NAN",
                 "NAN",
-                95.0,
                 "NAN",
                 "NAN",
-                125.0
+                "NAN",
+                "NAN"
             ],
             "VrThreshold":"NAN",
             "Multiplier":0.001
@@ -22,10 +22,10 @@
                 "NAN",
                 "NAN",
                 "NAN",
-                95.0,
                 "NAN",
                 "NAN",
-                125.0
+                "NAN",
+                "NAN"
             ],
             "VrThreshold":"NAN",
             "Multiplier":0.001
@@ -37,10 +37,10 @@
                 "NAN",
                 "NAN",
                 "NAN",
-                95.0,
                 "NAN",
                 "NAN",
-                125.0
+                "NAN",
+                "NAN"
             ],
             "VrThreshold":"NAN",
             "Multiplier":0.001
@@ -52,10 +52,10 @@
                 "NAN",
                 "NAN",
                 "NAN",
-                95.0,
                 "NAN",
                 "NAN",
-                125.0
+                "NAN",
+                "NAN"
             ],
             "VrThreshold":"NAN",
             "Multiplier":0.001
@@ -67,10 +67,10 @@
                 "NAN",
                 "NAN",
                 "NAN",
-                95.0,
                 "NAN",
                 "NAN",
-                125.0
+                "NAN",
+                "NAN"
             ],
             "VrThreshold":"NAN",
             "Multiplier":0.001
@@ -82,10 +82,10 @@
                 "NAN",
                 "NAN",
                 "NAN",
-                95.0,
                 "NAN",
                 "NAN",
-                125.0
+                "NAN",
+                "NAN"
             ],
             "VrThreshold":"NAN",
             "Multiplier":0.001
@@ -97,10 +97,10 @@
                 "NAN",
                 "NAN",
                 "NAN",
-                95.0,
                 "NAN",
                 "NAN",
-                125.0
+                "NAN",
+                "NAN"
             ],
             "VrThreshold":"NAN",
             "Multiplier":0.001
@@ -112,10 +112,10 @@
                 "NAN",
                 "NAN",
                 "NAN",
-                95.0,
                 "NAN",
                 "NAN",
-                125.0
+                "NAN",
+                "NAN"
             ],
             "VrThreshold":"NAN",
             "Multiplier":0.001
@@ -127,10 +127,10 @@
                 "NAN",
                 "NAN",
                 "NAN",
-                95.0,
                 "NAN",
                 "NAN",
-                125.0
+                "NAN",
+                "NAN"
             ],
             "VrThreshold":"NAN",
             "Multiplier":0.001
@@ -142,10 +142,10 @@
                 "NAN",
                 "NAN",
                 "NAN",
-                95.0,
                 "NAN",
                 "NAN",
-                125.0
+                "NAN",
+                "NAN"
             ],
             "VrThreshold":"NAN",
             "Multiplier":0.001
@@ -159,7 +159,7 @@
                 "NAN",
                 "NAN",
                 "NAN",
-                "65.0",
+                "NAN",
                 "NAN"
             ],
             "HotHysteresis":[
@@ -181,12 +181,12 @@
             "Type":"SKIN",
             "HotThreshold":[
                 "NAN",
-                40.0,
-                45.0,
-                47.0,
-                49.0,
-                51.0,
-                95.0
+                "NAN",
+                "NAN",
+				"NAN",
+				"NAN",
+				"NAN",
+                "NAN"
             ],
             "HotHysteresis":[
                 0.0,
